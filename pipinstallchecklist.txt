@@ -1,0 +1,3 @@
+pip install streamlit torch torchvision pillow matplotlib
+pip install plotly seaborn pandas
+pip install opencv-python
