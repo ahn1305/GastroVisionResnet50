@@ -4,3 +4,4 @@ model/best_resnet152_epoch47.pth
 __pycache__
 auth_config.py
 utils/
+model/
